@@ -1,7 +1,10 @@
 # Lottie Sapmle
 
-使用パッケージ
-https://pub.dev/packages/lottie
+### 使用パッケージ
+  - https://pub.dev/packages/lottie
+### Lottie公式サイト
+  - https://lottiefiles.com/jp/
+
 
 ## サンプルウィジェット
 
