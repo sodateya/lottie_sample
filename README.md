@@ -1,16 +1,19 @@
-# test_lottie
+# Lottie Sapmle
 
-"A new Flutter project."
+使用パッケージ
+https://pub.dev/packages/lottie
 
-## Getting Started
+## サンプルウィジェット
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### constantly_moving_lottie 
+  - Lottieが終了したらもう一度再生される 
+  - 再生地点の終了視点が同じLottieだと動き続けるてるように見える
+  - ロゴとか背景に使えそう
+   
+### single_shot_lottie
+  - Lottieが終了したら止まったまま
+  - これにGestureDetectorを重ねたらお気に入りボタンとかカッコよくできそう
+   
+### slide_show_lottie
+  - Lottieをスライドショー的な感じでえる
+  - 初回起動時のチュートリアルとかに使えそう
