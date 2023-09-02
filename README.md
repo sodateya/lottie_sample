@@ -10,7 +10,7 @@
 
 ### constantly_moving_lottie 
   - Lottieが終了したらもう一度再生される 
-  - 再生地点の終了視点が同じLottieだと動き続けるてるように見える
+  - 再生地点と終了地点が同じLottieだと動き続けるてるように見える
   - ロゴとか背景に使えそう
    
 ### single_shot_lottie
