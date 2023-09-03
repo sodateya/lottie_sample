@@ -7,10 +7,10 @@ class ConstantlyMoving extends StatefulWidget {
   final String asset;
 
   @override
-  State<ConstantlyMoving> createState() => _MyWidgetState();
+  State<ConstantlyMoving> createState() => _ConstantlyMovingState();
 }
 
-class _MyWidgetState extends State<ConstantlyMoving> {
+class _ConstantlyMovingState extends State<ConstantlyMoving> {
   late final Future<LottieComposition> _composition;
 
   @override
